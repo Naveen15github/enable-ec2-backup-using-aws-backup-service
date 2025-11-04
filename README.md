@@ -1,5 +1,5 @@
 # enable-ec2-backup-using-aws-backup-service
-![Alt text]()
+![Alt text](https://github.com/Naveen15github/enable-ec2-backup-using-aws-backup-service/blob/0caa181c8d9b4ca8e5f777938b8bd5782233f80b/AWS-Backup.jpg)
 
 In this task, I enabled automated EC2 backup using the AWS Backup service.
 I created a backup vault, backup plan, assigned my EC2 instance to that plan, and verified that the backup job ran successfully.
@@ -65,7 +65,7 @@ Then clicked Assign resources.
 I went to Backup jobs and saw the backup job running automatically.
 
 Once the status changed to Completed, I confirmed that the backup was stored safely in my vault.
-![Alt text](image_url)
+![Alt text](https://github.com/Naveen15github/enable-ec2-backup-using-aws-backup-service/blob/0caa181c8d9b4ca8e5f777938b8bd5782233f80b/Screenshot%20(107).png)
 
 ✅ Backup completed successfully and stored inside MyBackupVault.
 
